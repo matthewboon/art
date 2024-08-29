@@ -3,10 +3,28 @@
     <title>Matthew Boon</title>
     <link href="https://matthewboon.github.io/art/feed.xml" rel="self" />
     <link href="https://matthewboon.github.io/art" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2024-08-29T18:05:36+02:00</updated>
     <author>
         <name>Matthew Boon</name>
     </author>
     <id>https://matthewboon.github.io/art</id>
 
+    <entry>
+        <title>A post</title>
+        <author>
+            <name>Matthew Boon</name>
+        </author>
+        <link href="https://matthewboon.github.io/art/a-post.html"/>
+        <id>https://matthewboon.github.io/art/a-post.html</id>
+        <media:content url="https://matthewboon.github.io/art/media/posts/6/1.jpeg" medium="image" />
+
+        <updated>2024-08-29T18:05:03+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://matthewboon.github.io/art/media/posts/6/1.jpeg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://matthewboon.github.io/art/media/posts/6//7.jpeg" alt="" width="3382" height="2384" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://matthewboon.github.io/art/media/posts/6//responsive/7-xs.jpeg 300w ,https://matthewboon.github.io/art/media/posts/6//responsive/7-sm.jpeg 480w ,https://matthewboon.github.io/art/media/posts/6//responsive/7-md.jpeg 768w ,https://matthewboon.github.io/art/media/posts/6//responsive/7-lg.jpeg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
