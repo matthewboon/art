@@ -19,7 +19,7 @@
    preload: [1,2],
    hideAnimationDuration:200,
    showAnimationDuration:0,
-   bgOpacity: 0.9,
+   bgOpacity: 1,
    showHideOpacity:true,
    closeOnScroll: true,
    arrowKeys: true,
@@ -27,8 +27,8 @@
    captionEl: true,
    fullscreenEl: true,
    zoomEl: true,
-   shareEl: true,
-   counterEl: true,
+   shareEl: false,
+   counterEl: false,
    arrowEl: true,
    preloaderEl: true
    };if(fromURL){if(options.galleryPIDs){for(var j=0;j<items.length;j++){if(items[j].pid==index){options.index=j;break;}}}else{options.index=parseInt(index,10)-1;}}else{options.index=parseInt(index,10);}
