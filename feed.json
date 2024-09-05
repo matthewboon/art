@@ -10,19 +10,5 @@
         "name": "Matthew Boon"
     },
     "items": [
-        {
-            "id": "https://matthewboon.github.io/art/a-post.html",
-            "url": "https://matthewboon.github.io/art/a-post.html",
-            "title": "A post",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matthewboon.github.io/art/media/posts/6//7.jpeg\" alt=\"\" width=\"3382\" height=\"2384\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://matthewboon.github.io/art/media/posts/6//responsive/7-xs.jpeg 300w ,https://matthewboon.github.io/art/media/posts/6//responsive/7-sm.jpeg 480w ,https://matthewboon.github.io/art/media/posts/6//responsive/7-md.jpeg 768w ,https://matthewboon.github.io/art/media/posts/6//responsive/7-lg.jpeg 1024w\"></figure>",
-            "image": "https://matthewboon.github.io/art/media/posts/6/1.jpeg",
-            "author": {
-                "name": "Matthew Boon"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-08-29T18:05:03+02:00",
-            "date_modified": "2024-08-29T18:05:36+02:00"
-        }
     ]
 }
