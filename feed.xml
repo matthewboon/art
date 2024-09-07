@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Matthew Boon</title>
-    <link href="https://matthewboon.github.io/art/feed.xml" rel="self" />
-    <link href="https://matthewboon.github.io/art" />
+    <link href="https://www.matthewboon.com/feed.xml" rel="self" />
+    <link href="https://www.matthewboon.com" />
     <updated>1970-01-01T02:00:00+02:00</updated>
     <author>
         <name>Matthew Boon</name>
     </author>
-    <id>https://matthewboon.github.io/art</id>
+    <id>https://www.matthewboon.com</id>
 
 </feed>

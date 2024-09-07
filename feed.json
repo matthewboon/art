@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Matthew Boon",
     "description": "",
-    "home_page_url": "https://matthewboon.github.io/art",
-    "feed_url": "https://matthewboon.github.io/art/feed.json",
+    "home_page_url": "https://www.matthewboon.com",
+    "feed_url": "https://www.matthewboon.com/feed.json",
     "user_comment": "",
-    "icon": "https://matthewboon.github.io/art/media/website/logo-matthew-boon.svg",
+    "icon": "https://www.matthewboon.com/media/website/logo-matthew-boon.svg",
     "author": {
         "name": "Matthew Boon"
     },
