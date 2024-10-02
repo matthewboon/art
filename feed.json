@@ -10,5 +10,20 @@
         "name": "Matthew Boon"
     },
     "items": [
+        {
+            "id": "https://matthewboon.com/new-post.html",
+            "url": "https://matthewboon.com/new-post.html",
+            "title": "New Post",
+            "summary": "Some text.",
+            "content_html": "<p>Some text.</p>",
+            "image": "https://matthewboon.com/media/posts/10/27.JPG",
+            "author": {
+                "name": "Matthew Boon"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-02T13:19:07+02:00",
+            "date_modified": "2024-10-02T13:19:07+02:00"
+        }
     ]
 }
