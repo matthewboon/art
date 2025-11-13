@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://matthewboon.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://matthewboon.art/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://matthewboon.com/</loc>
+<loc>https://matthewboon.art/</loc>
 </url>
 <url>
-<loc>https://matthewboon.com/artworks.html</loc>
-<lastmod>2025-10-09T13:42:21+02:00</lastmod>
+<loc>https://matthewboon.art/artworks.html</loc>
+<lastmod>2025-10-10T07:49:58+02:00</lastmod>
 <image:image>
-<image:loc>https://matthewboon.com/media/posts/4/IMG_4717-2.jpeg</image:loc>
+<image:loc>https://matthewboon.art/media/posts/4/IMG_4717-2.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://matthewboon.com/media/posts/4/IMG_3493.jpeg</image:loc>
+<image:loc>https://matthewboon.art/media/posts/4/IMG_3493.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://matthewboon.com/media/posts/4/IMG_0659.jpeg</image:loc>
+<image:loc>https://matthewboon.art/media/posts/4/IMG_0659.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://matthewboon.com/contact.html</loc>
+<loc>https://matthewboon.art/contact.html</loc>
 <lastmod>2024-10-03T17:16:21+02:00</lastmod>
 </url>
 <url>
-<loc>https://matthewboon.com/qr-code.html</loc>
-<lastmod>2024-10-04T11:55:56+02:00</lastmod>
+<loc>https://matthewboon.art/qr-code.html</loc>
+<lastmod>2025-11-13T08:04:37+02:00</lastmod>
 </url>
 </urlset>
